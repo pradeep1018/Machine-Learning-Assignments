@@ -1,2 +1,2 @@
 # Machine-Learning-Assignments
-Repository for CS503 Machine Learning assignments
+Repository for CS503: Machine Learning assignments
